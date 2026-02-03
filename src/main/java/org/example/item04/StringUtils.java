@@ -1,4 +1,4 @@
-package org.example.item4;
+package org.example.item04;
 
 // 상속도 막기 위해 final로 선언하는 것을 권장 (선택사항)
 public final class StringUtils {

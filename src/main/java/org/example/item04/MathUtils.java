@@ -1,4 +1,4 @@
-package org.example.item4;
+package org.example.item04;
 
 // 잘못된 예시: 인스턴스화를 막으려 추상 클래스로 선언함
 public abstract class MathUtils {
